@@ -1,6 +1,5 @@
 {
     "name": "refraction-dao-registration",
-    "homepage": "https://keypom.io/claim-page-boilerplate",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
